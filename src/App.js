@@ -7,7 +7,7 @@ export default class App extends React.Component {
         return (
             <div>
                 <Header />
-                <Board />
+                <Board {...this.props} />
             </div>
         );
     }
