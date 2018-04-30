@@ -23,6 +23,7 @@ header {
     background: #e0e0e0;
     margin: 5px;
     padding: 5px;
+    min-height: 200px;
 }
 
 .card {
